@@ -4,6 +4,8 @@
 **Roll No:** 150096725068
 **Cohort:** Sam Altman
 
+**Deployed Link:** https://assignment-13-realtime-chat-application-0pq5.onrender.com/
+
 A multi-room real-time chat app built with **Node.js, Express, and Socket.io**. Users join channels, see message history on join, get live typing indicators, and can send private direct messages.
 
 ## Features
